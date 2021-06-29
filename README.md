@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="26" data-canonical-src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" style="max-width:100%;">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--L8VxAWme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" loading="lazy">
 
 <!---
 r3flexmlg/r3flexmlg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
