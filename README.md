@@ -2,9 +2,12 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I've worked with:
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--L8VxAWme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" loading="lazy">
+![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-444456?style=flat&logo=Linux&logoColor=white) 
+![Github](https://img.shields.io/badge/-Github-2B2C2B?style=flat&logo=Github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-24b7ea?style=flat&logo=Docker&logoColor=white) 
 
 <!---
 r3flexmlg/r3flexmlg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
